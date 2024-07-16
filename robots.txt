@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lacivaldi.github.io/sitemap
+Sitemap: https://lacivaldi.github.io/app/sitemap
+Sitemap: https://lacivaldi.github.io/assets/sitemap
+Sitemap: https://lacivaldi.github.io/css/sitemap
+Sitemap: https://lacivaldi.github.io/includes/sitemap
+Sitemap: https://lacivaldi.github.io/item/sitemap
+Sitemap: https://lacivaldi.github.io/src/sitemap
